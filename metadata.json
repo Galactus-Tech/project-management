@@ -1,0 +1,6 @@
+{
+  "name": "Project Management",
+  "description": "A comprehensive project and task management dashboard for tracking workspaces, projects, team members, and tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
